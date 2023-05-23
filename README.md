@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Henry and I am a data scientist in training.
 
-- 👀 I’m interested in constructing a system and thought process to solve the problems piece by piece and layer by layer. Meanwhile, it is also my strengthen and passion to communicate with different audience and address each individual's point. After all, everyone has their own perspectives and I would love to know what they are thinking so I can provide a tail-made and precised solution. 
+- 👀 I’m interested in constructing a system and thought process to solve the problems piece by piece and layer by layer. Meanwhile, it is also my strengthen and passion to communicate with different audience and address each individual's point. After all, everyone has their own perspectives and I would love to know what they are thinking then I would provide a tail-made and precised solution. 
 
 - 🌱 I’m currently learning Python, SQL, Machine Learning and other important skills in data science.
 
